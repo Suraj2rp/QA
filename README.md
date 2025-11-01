@@ -70,21 +70,25 @@ Skipped: 0
 
 Below is a visual summary of the Cypress E2E test run:
 
-!**[Test Summary Screenshot](./Final_Report/Test_Summary.png)**
+![Test Summary Screenshot](./Final_Report/Test_Summary.png)
 
+---
 
 ## 🎥 Test Execution Video
 
 Watch the complete recorded run of the Cypress E2E validation suite below:  
 
-🎬 **[View Test Run Video](./Final_Report/test_video.mp4)**
+🎬 [▶️ View Test Run Video](./Final_Report/test_video.mp4)
 
+> _Tip: If the video doesn’t play inline, right-click → “Open link in new tab”._
+
+---
 
 ## 📄 Test Report
 
-A detailed PDF report containing test case descriptions, logs, and results is available:
+A detailed PDF report containing test case descriptions, logs, and results is available here:
 
-📘 **[WebMobi_QA_E2E_Test_Report.pdf](./Final_Report/WebMobi_QA_E2E_Test_Report.pdf)**
+📘 [Download WebMobi_QA_E2E_Test_Report.pdf](./Final_Report/WebMobi_QA_E2E_Test_Report.pdf)
 
 
 ## ⚙️ Folder Structure
