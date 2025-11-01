@@ -70,7 +70,7 @@ Skipped: 0
 
 Below is a visual summary of the Cypress E2E test run:
 
-![Test Summary Screenshot](./assets/test-summary.png)
+![Test Summary Screenshot](./Final Report/Test Ssummary.png)
 
 
 ## 🎥 Test Execution Video
