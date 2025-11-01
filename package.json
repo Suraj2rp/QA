@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "cypress": "^15.5.0",
+    "cypress-mochawesome-reporter": "^4.0.2",
+    "marge": "^1.0.1",
+    "mochawesome": "^7.1.4",
+    "mochawesome-merge": "^5.0.0"
+  },
+  "scripts": {
+  "test": "cypress run",
+  "test:report": "cypress run --reporter cypress-mochawesome-reporter",
+  "merge:reports": "npx mochawesome-merge cypress/reports/html/*.json > cypress/reports/html/report.json",
+  "generate:html": "npx marge cypress/reports/html/report.json --reportDir cypress/reports/html --reportTitle '🌐 WebMobi QA E2E Validation Suite'"
+}
+}
+
